@@ -2,4 +2,4 @@ User-agent: *
 Disallow:
 Disallow: /privacy/
 
-Sitemap: https://axiom-example.netlify.app/sitemap.xml
+Sitemap: https://li13603167005.github.io/sitemap.xml

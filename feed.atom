@@ -2,23 +2,47 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en-us">
   <title>Axiom Example</title>
   <subtitle>Axiom is a powerful, high performance, modular Hugo theme, built with Tailwind CSS and Alpine JS.</subtitle>
-  <id>https://axiom-example.netlify.app/</id>
+  <id>https://li13603167005.github.io/</id>
   <author>
     <name>Axiom Example</name>
-    <uri>https://axiom-example.netlify.app/</uri>
+    <uri>https://li13603167005.github.io/</uri>
   </author>
-  <icon>https://axiom-example.netlify.app/image/brand/icon-1-1.png</icon>
-  <logo>https://axiom-example.netlify.app/image/brand/icon-2-1.png</logo>
-  <updated>2020-07-15T08:46:06Z</updated>
-  <link rel="self" type="application/atom+xml" href="https://axiom-example.netlify.app/feed.atom" hreflang="en-us"/>
-  <link rel="alternate" type="text/html" href="https://axiom-example.netlify.app/" hreflang="en-us"/>
+  <icon>https://li13603167005.github.io/image/brand/icon-1-1.png</icon>
+  <logo>https://li13603167005.github.io/image/brand/icon-2-1.png</logo>
+  <updated>2020-07-15T09:00:19Z</updated>
+  <link rel="self" type="application/atom+xml" href="https://li13603167005.github.io/feed.atom" hreflang="en-us"/>
+  <link rel="alternate" type="text/html" href="https://li13603167005.github.io/" hreflang="en-us"/>
+  <entry>
+    <title>1</title>
+    <author>
+      <name>Axiom Theme</name>
+      <uri>https://example.com/</uri>
+    </author>
+    <id>https://li13603167005.github.io/1/</id>
+    <updated>2020-07-15T08:00:00Z</updated>
+    <published>2020-07-15T08:00:00Z</published>
+    <content type="html"><![CDATA[<p>And go...</p>]]></content>
+  </entry>
+  <entry>
+    <title>2</title>
+    <author>
+      <name>Axiom Theme</name>
+      <uri>https://example.com/</uri>
+    </author>
+    <id>https://li13603167005.github.io/2/</id>
+    <updated>2020-07-15T08:00:00Z</updated>
+    <published>2020-07-15T08:00:00Z</published>
+    <content type="html"><![CDATA[<p>And go...</p>
+<h1 id="first">First</h1>
+<p><em>sssss</em></p>]]></content>
+  </entry>
   <entry>
     <title>Example Post 3</title>
     <author>
       <name>Axiom Theme</name>
       <uri>https://example.com/</uri>
     </author>
-    <id>https://axiom-example.netlify.app/example-post-3/</id>
+    <id>https://li13603167005.github.io/example-post-3/</id>
     <updated>2020-01-01T18:30:00Z</updated>
     <published>2020-01-01T18:30:00Z</published>
     <content type="html"><![CDATA[<p>This article offers a sample of basic Markdown syntax that can be used in Hugo content files, also it shows whether basic HTML elements are decorated with CSS in a Hugo theme.</p>
@@ -192,7 +216,7 @@
       <name>Axiom Theme</name>
       <uri>https://example.com/</uri>
     </author>
-    <id>https://axiom-example.netlify.app/example-post-2/</id>
+    <id>https://li13603167005.github.io/example-post-2/</id>
     <updated>2020-01-01T17:30:00Z</updated>
     <published>2020-01-01T17:30:00Z</published>
     <content type="html"><![CDATA[<p>This article offers a sample of basic Markdown syntax that can be used in Hugo content files, also it shows whether basic HTML elements are decorated with CSS in a Hugo theme.</p>
@@ -366,7 +390,7 @@
       <name>Axiom Theme</name>
       <uri>https://example.com/</uri>
     </author>
-    <id>https://axiom-example.netlify.app/example-post-1/</id>
+    <id>https://li13603167005.github.io/example-post-1/</id>
     <updated>2020-01-01T16:30:00Z</updated>
     <published>2020-01-01T16:30:00Z</published>
     <content type="html"><![CDATA[<p>This article offers a sample of basic Markdown syntax that can be used in Hugo content files, also it shows whether basic HTML elements are decorated with CSS in a Hugo theme.</p>
