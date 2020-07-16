@@ -9,7 +9,7 @@
   </author>
   <icon>https://li13603167005.github.io/image/brand/icon-1-1.png</icon>
   <logo>https://li13603167005.github.io/image/brand/icon-2-1.png</logo>
-  <updated>2020-07-16T00:58:52Z</updated>
+  <updated>2020-07-16T01:55:11Z</updated>
   <link rel="self" type="application/atom+xml" href="https://li13603167005.github.io/feed.atom" hreflang="en-us"/>
   <link rel="alternate" type="text/html" href="https://li13603167005.github.io/" hreflang="en-us"/>
   <entry>
@@ -22,30 +22,6 @@
     <updated>2020-07-15T14:00:00Z</updated>
     <published>2020-07-15T14:00:00Z</published>
     <content type="html"><![CDATA[<h1 id="王浩宇宇爹">王浩宇（宇爹）</h1>
-<p><img src="C:%5CUsers%5C17206%5CHugo%5Cbin%5Cyongjiuli%5Caxiom-example%5Cstatic%5Cimage%5Cauthor%5C%E5%AE%87%E7%88%B9.jpg" alt=""></p>]]></content>
-  </entry>
-  <entry>
-    <title>1</title>
-    <author>
-      <name>Axiom Theme</name>
-      <uri>https://example.com/</uri>
-    </author>
-    <id>https://li13603167005.github.io/1/</id>
-    <updated>2020-07-15T08:00:00Z</updated>
-    <published>2020-07-15T08:00:00Z</published>
-    <content type="html"><![CDATA[<p>And go...</p>]]></content>
-  </entry>
-  <entry>
-    <title>2</title>
-    <author>
-      <name>Axiom Theme</name>
-      <uri>https://example.com/</uri>
-    </author>
-    <id>https://li13603167005.github.io/2/</id>
-    <updated>2020-07-15T08:00:00Z</updated>
-    <published>2020-07-15T08:00:00Z</published>
-    <content type="html"><![CDATA[<p>And go...</p>
-<h1 id="first">First</h1>
-<p><em>sssss</em></p>]]></content>
+<p><img src="image%5C11.jpg" alt=""></p>]]></content>
   </entry>
 </feed>
